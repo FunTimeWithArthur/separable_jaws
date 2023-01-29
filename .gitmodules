@@ -1,0 +1,14 @@
+[submodule "dynamixel_hardware"]
+	path = dynamixel_hardware
+	url = https://github.com/dynamixel-community/dynamixel_hardware.git
+	branch = humble
+[submodule "separable_jaws_bringup"]
+	path = separable_jaws_bringup
+	url = git@github.com:FunTimeWithArthur/separable_jaws_bringup.git
+[submodule "separable_jaws_config"]
+	path = separable_jaws_config
+	url = git@github.com:FunTimeWithArthur/separable_jaws_config.git
+[submodule "separable_jaws_description"]
+	path = separable_jaws_description
+	url = git@github.com:FunTimeWithArthur/separable_jaws_description.git
+	branch = ros2
